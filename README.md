@@ -1,7 +1,3 @@
----
-layout: post
-author: yonghao
----
 
 **Author  Yonghao Yu**
 **Email   yyhao1@gmail.com**
