@@ -1,6 +1,7 @@
 **Author**  Yonghao Yu
 
 **Email**   yyhao1@gmail.com
+yonghaoy@cs.unc.edu
 
 
 I use the vimrc to wirte java, python and a little bit html code.
